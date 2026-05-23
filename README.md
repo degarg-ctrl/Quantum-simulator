@@ -1,4 +1,4 @@
-# QKD-simulator
+# Quantum-simulator (QKD)
 This project proposes the development of a Python-based simulator for the BB84 Quantum Key Distribution (QKD) protocol. The objective is to design a realistic and configurable simulation framework to analyze quantum-secure communication under practical operating conditions. The simulator will enable performance evaluation of QKD systems by incorporating physical channel effects and adversarial attacks. As quantum computing advances, traditional public-key cryptographic schemes (e.g., RSA, ECC) face potential compromise. QKD offers information-theoretic security based on quantum mechanics principles. However, practical performance evaluation under realistic constraints remains a critical research need.
 
 ## What It Simulates
